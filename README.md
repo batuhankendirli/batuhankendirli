@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/batuhankendirli">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=EEEEEE&center=true&vCenter=true&width=500&lines=Hello+there!;My+name+is+Batuhan.;I'm+a+Frontend+Developer.;Lorem+ipsum+dolor+sit+amet;The+quick+brown+fox+jumps+over+the+lazy+dog"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&pause=1000&color=EEEEEE&center=true&vCenter=true&width=600&lines=Hello+there!;My+name+is+Batuhan.;I'm+a+Frontend+Developer.;Lorem+ipsum+dolor+sit+amet;The+quick+brown+fox+jumps+over+the+lazy+dog"/>
   </a>
 </p>
 
@@ -17,8 +17,8 @@
 ---
 
 <b>
-  <img src='https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif' width=40> Say hi 
-  
+  <img src='https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif' width=40> Say hi
+
 <b/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batuhankndrl@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batuhan-kendirli/)
